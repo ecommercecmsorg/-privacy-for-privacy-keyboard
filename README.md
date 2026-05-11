@@ -87,9 +87,4 @@ If you have questions or concerns:
 📧 Email: [corneliu.frunze@outlook.com](mailto:corneliu.frunze@outlook.com)
 
 ---
-
-If you want, I can also:
-
-* make a shorter “GitHub sidebar version”
-* add badges (privacy, license, version)
-* or format it as a full professional open-source README for your project page
+ 
