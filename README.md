@@ -84,7 +84,7 @@ This app does not target children under the age of 13 (or applicable local minim
 
 If you have questions or concerns:
 
-📧 Email: [your-email@example.com](mailto:corneliu.frunze@outlook.com)
+📧 Email: [corneliu.frunze@outlook.com](mailto:corneliu.frunze@outlook.com)
 
 ---
 
